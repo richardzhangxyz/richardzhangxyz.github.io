@@ -1,1 +1,1 @@
-Personal website backbone for CS50.
+Personal website code.
