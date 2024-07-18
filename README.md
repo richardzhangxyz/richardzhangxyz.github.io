@@ -1,1 +1,1 @@
-# richardzhangxyz.github.io
+Personal website backbone for CS50.

@@ -1,0 +1,26 @@
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 48px;
+    margin-top: 20px;
+}
+
+h2{
+    font-size: 36px;
+}
+
+.large
+{
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+}
+
+.medium
+{
+    font-size: medium;
+}
+
+.small
+{
+    font-size: small;
+}
